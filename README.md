@@ -37,7 +37,7 @@ To demonstrate practical data analytics techniques, model building, and result i
 
 📊 **Dataset Example (replace with your own):**  
 - **Source:** Kaggle / Public dataset (url:https://www.kaggle.com/datasets/abdulmalik1518/cars-datasets-2025) 
-- **Rows:** ~10,000  
+- **Rows:** ~1000  
 - **Columns:** 12 (numerical + categorical)  
 - **Goal:** Predict or understand a target variable through analytical insights.
 
