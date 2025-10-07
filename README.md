@@ -28,7 +28,7 @@ This project leverages **PySpark** — a powerful distributed computing framewor
 | 🔥 Big Data Framework | Apache Spark (PySpark) |
 | 📊 Visualization | Matplotlib, Seaborn (optional Pandas integration) |
 | 🧠 ML Framework | `pyspark.ml`, `pyspark.sql` |
-| 💾 Environment | Jupyter Notebook |
+| 💾 Environment | Jupyter Notebook(Spark) |
 
 ---
 
