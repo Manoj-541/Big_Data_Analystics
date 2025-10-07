@@ -1,4 +1,4 @@
-# Big_Data_Analytics
+# Exploratory Data Analysis
 # 🚀 Big Data Analytics Mini Project — PySpark Edition  
 ### 🧾 Notebook: `bda_miniproject.ipynb`
 
