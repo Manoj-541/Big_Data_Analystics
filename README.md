@@ -21,7 +21,7 @@ This project showcases a **step-by-step Big Data Analytics pipeline**, including
 To demonstrate practical data analytics techniques, model building, and result interpretation on a sample dataset.
 
 📊 **Dataset Example (replace with your own):**  
-- **Source:** Kaggle / Public dataset  
+- **Source:** Kaggle / Public dataset (url:https://www.kaggle.com/datasets/abdulmalik1518/cars-datasets-2025) 
 - **Rows:** ~10,000  
 - **Columns:** 12 (numerical + categorical)  
 - **Goal:** Predict or understand a target variable through analytical insights.
