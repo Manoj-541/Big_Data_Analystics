@@ -1,21 +1,36 @@
 # Big_Data_Analytics
-# 📊 Big Data Analytics Mini Project — `541@bda_miniproject.ipynb`
+# 🚀 Big Data Analytics Mini Project — PySpark Edition  
+### 🧾 Notebook: `bda_miniproject.ipynb`
 
-Welcome to the **Big Data Analytics Mini Project**!  
-This repository contains a Jupyter Notebook (`bda_miniproject.ipynb`) that demonstrates a complete **data analysis and modeling workflow** — from raw data to insights and conclusions.  
+Welcome to the **Big Data Analytics Mini Project (PySpark)**!  
+This notebook demonstrates how to perform large-scale data processing, analysis, and modeling using **Apache Spark** through its Python API — **PySpark**.  
 
 ---
 
 ## 🧭 Introduction
 
-In the modern data-driven world, understanding how to process and analyze large datasets is essential.  
-This project showcases a **step-by-step Big Data Analytics pipeline**, including:
+In today’s data-driven era, working efficiently with massive datasets is crucial.  
+This project leverages **PySpark** — a powerful distributed computing framework — to perform data analysis at scale.  
 
-- 🔹 Data loading and cleaning  
-- 🔹 Exploratory Data Analysis (EDA)  
-- 🔹 Feature engineering  
-- 🔹 Model training and evaluation  
-- 🔹 Insights and conclusions  
+**🎯 Objective:**
+- Ingest and process large datasets using PySpark.
+- Explore, clean, and transform data using Spark DataFrames and SQL.
+- Perform exploratory data analysis (EDA) and feature engineering.
+- Build and evaluate machine learning models using `pyspark.ml`.
+
+---
+
+## ⚙️ Technologies & Libraries Used
+
+| Category | Tools |
+|-----------|--------|
+| 🐍 Language | Python 3.x |
+| 🔥 Big Data Framework | Apache Spark (PySpark) |
+| 📊 Visualization | Matplotlib, Seaborn (optional Pandas integration) |
+| 🧠 ML Framework | `pyspark.ml`, `pyspark.sql` |
+| 💾 Environment | Jupyter Notebook |
+
+---
 
 📘 **Objective:**  
 To demonstrate practical data analytics techniques, model building, and result interpretation on a sample dataset.
